@@ -1,5 +1,5 @@
 # Battleship
-2-player Battleship developed using C programming 
+2-player Battleship developed using C programming
 
 <b><header>How to play</header></b><br>
 1. This game is for two players using sharing the same screen. At the beginning, the first player will be able choose the orientation of
@@ -10,15 +10,19 @@ player<br>
 3. Both players take turn, whoever hits all the ships of the other player first, wins <br>
 
 <br>
-<b><header>Requirements</header></b><br><br>
-- C Programming <br>
-- stdlib.h <br>
-- stdio.h <br>
-- string.h <br>
-- time.h <br>
-- windows.h <br>
 
-To start run battleship.c<br><br>
+<b><header>Requirements</header></b><br>
+* test
+* stdlib.h
+* stdio.h
+* string.h
+* time.h
+* windows.h
+
+<b><header>To start</header></b><br>
+This program was developed entirely in VSCode Community 2022, in order to ensure that the program is working, please use VSCode to avoid any incompatabilities.
+1. Clone the project from GitHub to your local machine.
+2. 
 
 
 <b><header>Screenshots</header></b><br><br>
@@ -34,6 +38,3 @@ To start run battleship.c<br><br>
 <br><br>
 <b><header>License</header></b><br>
 This project is for educational purpose only. 
-1. The copyrights of the characters and backgrounds do not belong to me. The sources are undefined. However, I am willing to contact to
-the copyright owner.
-2. The music is from Max and magic marker theme songs, it does not belong to me.
